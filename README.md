@@ -9,14 +9,16 @@ Features
 ✅ User Profiles – Customize your profile and track activity.
 ✅ Responsive Design – Works on desktop and mobile.
 
-Tech Stack
+# Tech Stack
+
 Backend: Django
-
 Frontend: Django Template Engine, HTML, CSS, JavaScript
-
 Database: SQLite (Default, can be configured for PostgreSQL/MySQL)
 
-Contributing
+
+
+
+# Contributing
 Contributions are welcome! If you'd like to improve StudyBud, follow these steps:
 
 Fork the repository
@@ -29,5 +31,8 @@ Push to the branch (git push origin feature-branch)
 
 Open a Pull Request
 
-License
+
+
+
+# License
 This project is licensed under the MIT License.
