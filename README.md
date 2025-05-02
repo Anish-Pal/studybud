@@ -1,6 +1,6 @@
-## StudyBud - A Social Learning Platform
+### StudyBud - A Social Learning Platform
 
-StudyBud is a social learning platform where users can create and join study rooms, interact with others, and follow users like Twitter. Built with Django, HTML, CSS, and JavaScript, StudyBud provides a collaborative space for learners to discuss topics, share knowledge, and connect with peers.
+# StudyBud is a social learning platform where users can create and join study rooms, interact with others, and follow users like Twitter. Built with Django, HTML, CSS, and JavaScript, StudyBud provides a collaborative space for learners to discuss topics, share knowledge, and connect with peers.
 
 Features
 ✅ Create & Join Study Rooms – Discuss topics in real-time.
